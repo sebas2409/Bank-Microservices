@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Bank Microservices.iml" filepath="$PROJECT_DIR$/.idea/Bank Microservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/banking-account/banking-account.iml" filepath="$PROJECT_DIR$/banking-account/banking-account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cqrs-es/cqrs-core/cqrs-core.iml" filepath="$PROJECT_DIR$/cqrs-es/cqrs-core/cqrs-core.iml" />
+    </modules>
+  </component>
+</project>
